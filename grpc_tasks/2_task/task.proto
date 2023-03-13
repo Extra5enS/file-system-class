@@ -1,0 +1,27 @@
+/*
+ * Auther: psifi
+ * Task: For every request sends 128byte random word.
+ *		 And in every 100 answers 1 random answer will be paused at 1 second.
+ * 
+ * .protos is needs only to generate .cc .h files
+ */
+
+syntax = "proto3";
+
+// main part of
+service TaskOne {
+	rpc Triger(Request) returns(Answer) {} 
+}
+
+service TaskTwo {
+	rpc Gen(Request) returns(Answer) {}
+}
+
+message Request {
+	string name = 1;
+}
+
+// 128byte random word will contain here
+message Answer {
+	bytes word = 1;
+}

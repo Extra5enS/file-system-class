@@ -1,0 +1,209 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1 225708  7088 ?        Ss   окт19   0:02 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    окт19   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        I<   окт19   0:00 [rcu_gp]
+root         4  0.0  0.0      0     0 ?        I<   окт19   0:00 [rcu_par_gp]
+root         6  0.0  0.0      0     0 ?        I<   окт19   0:00 [kworker/0:0H-kb]
+root         8  0.0  0.0      0     0 ?        I<   окт19   0:00 [mm_percpu_wq]
+root         9  0.0  0.0      0     0 ?        S    окт19   0:00 [ksoftirqd/0]
+root        10  0.0  0.0      0     0 ?        I    окт19   0:17 [rcu_sched]
+root        11  0.0  0.0      0     0 ?        S    окт19   0:00 [migration/0]
+root        12  0.0  0.0      0     0 ?        S    окт19   0:00 [idle_inject/0]
+root        14  0.0  0.0      0     0 ?        S    окт19   0:00 [cpuhp/0]
+root        15  0.0  0.0      0     0 ?        S    окт19   0:00 [cpuhp/1]
+root        16  0.0  0.0      0     0 ?        S    окт19   0:00 [idle_inject/1]
+root        17  0.0  0.0      0     0 ?        S    окт19   0:00 [migration/1]
+root        18  0.0  0.0      0     0 ?        S    окт19   0:00 [ksoftirqd/1]
+root        20  0.0  0.0      0     0 ?        I<   окт19   0:00 [kworker/1:0H-kb]
+root        21  0.0  0.0      0     0 ?        S    окт19   0:00 [cpuhp/2]
+root        22  0.0  0.0      0     0 ?        S    окт19   0:00 [idle_inject/2]
+root        23  0.0  0.0      0     0 ?        S    окт19   0:00 [migration/2]
+root        24  0.0  0.0      0     0 ?        S    окт19   0:00 [ksoftirqd/2]
+root        26  0.0  0.0      0     0 ?        I<   окт19   0:00 [kworker/2:0H-kb]
+root        27  0.0  0.0      0     0 ?        S    окт19   0:00 [cpuhp/3]
+root        28  0.0  0.0      0     0 ?        S    окт19   0:00 [idle_inject/3]
+root        29  0.0  0.0      0     0 ?        S    окт19   0:00 [migration/3]
+root        30  0.0  0.0      0     0 ?        S    окт19   0:00 [ksoftirqd/3]
+root        32  0.0  0.0      0     0 ?        I<   окт19   0:00 [kworker/3:0H-ev]
+root        33  0.0  0.0      0     0 ?        S    окт19   0:00 [kdevtmpfs]
+root        34  0.0  0.0      0     0 ?        I<   окт19   0:00 [netns]
+root        35  0.0  0.0      0     0 ?        S    окт19   0:00 [rcu_tasks_kthre]
+root        36  0.0  0.0      0     0 ?        S    окт19   0:00 [kauditd]
+root        37  0.0  0.0      0     0 ?        S    окт19   0:00 [khungtaskd]
+root        38  0.0  0.0      0     0 ?        S    окт19   0:00 [oom_reaper]
+root        39  0.0  0.0      0     0 ?        I<   окт19   0:00 [writeback]
+root        40  0.0  0.0      0     0 ?        S    окт19   0:01 [kcompactd0]
+root        41  0.0  0.0      0     0 ?        SN   окт19   0:00 [ksmd]
+root        42  0.0  0.0      0     0 ?        SN   окт19   0:00 [khugepaged]
+root        43  0.0  0.0      0     0 ?        I<   окт19   0:00 [crypto]
+root        44  0.0  0.0      0     0 ?        I<   окт19   0:00 [kintegrityd]
+root        45  0.0  0.0      0     0 ?        I<   окт19   0:00 [kblockd]
+root        48  0.0  0.0      0     0 ?        I<   окт19   0:00 [tpm_dev_wq]
+root        49  0.0  0.0      0     0 ?        I<   окт19   0:00 [ata_sff]
+root        50  0.0  0.0      0     0 ?        I<   окт19   0:00 [md]
+root        51  0.0  0.0      0     0 ?        I<   окт19   0:00 [edac-poller]
+root        52  0.0  0.0      0     0 ?        I<   окт19   0:00 [devfreq_wq]
+root        53  0.0  0.0      0     0 ?        S    окт19   0:00 [watchdogd]
+root        59  0.0  0.0      0     0 ?        S    окт19   0:22 [kswapd0]
+root        61  0.0  0.0      0     0 ?        S    окт19   0:00 [ecryptfs-kthrea]
+root       150  0.0  0.0      0     0 ?        I<   окт19   0:00 [kthrotld]
+root       151  0.0  0.0      0     0 ?        I<   окт19   0:00 [acpi_thermal_pm]
+root       154  0.0  0.0      0     0 ?        I<   окт19   0:00 [ipv6_addrconf]
+root       165  0.0  0.0      0     0 ?        I<   окт19   0:00 [kstrp]
+root       184  0.0  0.0      0     0 ?        I<   окт19   0:00 [charger_manager]
+root       234  0.0  0.0      0     0 ?        S    окт19   0:00 [scsi_eh_0]
+root       235  0.0  0.0      0     0 ?        I<   окт19   0:00 [scsi_tmf_0]
+root       236  0.0  0.0      0     0 ?        S    окт19   0:00 [scsi_eh_1]
+root       237  0.0  0.0      0     0 ?        I<   окт19   0:00 [scsi_tmf_1]
+root       238  0.0  0.0      0     0 ?        S    окт19   0:00 [scsi_eh_2]
+root       239  0.0  0.0      0     0 ?        I<   окт19   0:00 [scsi_tmf_2]
+root       240  0.0  0.0      0     0 ?        S    окт19   0:00 [scsi_eh_3]
+root       241  0.0  0.0      0     0 ?        I<   окт19   0:00 [scsi_tmf_3]
+root       242  0.0  0.0      0     0 ?        S    окт19   0:00 [scsi_eh_4]
+root       243  0.0  0.0      0     0 ?        I<   окт19   0:00 [scsi_tmf_4]
+root       244  0.0  0.0      0     0 ?        S    окт19   0:00 [scsi_eh_5]
+root       245  0.0  0.0      0     0 ?        I<   окт19   0:00 [scsi_tmf_5]
+root       251  0.0  0.0      0     0 ?        I<   окт19   0:00 [e1000e]
+root       252  0.0  0.0      0     0 ?        I<   окт19   0:02 [kworker/2:1H-kb]
+root       253  0.0  0.0      0     0 ?        S    окт19   0:00 [i915/signal:0]
+root       254  0.0  0.0      0     0 ?        S    окт19   0:00 [i915/signal:1]
+root       255  0.0  0.0      0     0 ?        S    окт19   0:00 [i915/signal:2]
+root       259  0.0  0.0      0     0 ?        I<   окт19   0:03 [kworker/0:1H-kb]
+root       328  0.0  0.0      0     0 ?        I<   окт19   0:01 [kworker/3:1H-kb]
+root       371  0.0  0.0      0     0 ?        I<   окт19   0:03 [kworker/1:1H-kb]
+root       373  0.0  0.0      0     0 ?        S    окт19   0:03 [jbd2/sda1-8]
+root       374  0.0  0.0      0     0 ?        I<   окт19   0:00 [ext4-rsv-conver]
+root       425  0.0  0.4 110688 19272 ?        S<s  окт19   0:01 /lib/systemd/systemd-journald
+root       445  0.0  0.0  47352  3380 ?        Ss   окт19   0:02 /lib/systemd/systemd-udevd
+root       446  0.0  0.0  97704  1444 ?        Ss   окт19   0:00 /sbin/lvmetad -f
+root       610  0.0  0.0      0     0 ?        S    окт19   0:00 [irq/23-smo8800]
+root       681  0.0  0.0      0     0 ?        I<   окт19   0:00 [cfg80211]
+root       690  0.0  0.0      0     0 ?        S    окт19   2:15 [irq/31-iwlwifi]
+systemd+   741  0.0  0.1  70976  4964 ?        Ss   окт19   0:00 /lib/systemd/systemd-resolved
+root       756  0.0  0.2 502936  7924 ?        Ssl  окт19   0:03 /usr/lib/udisks2/udisksd
+root       760  0.0  0.2 171704  8340 ?        Ssl  окт19   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root       767  0.0  0.1 289248  5856 ?        Ssl  окт19   0:00 /usr/lib/accountsservice/accounts-daemon
+syslog     770  0.0  0.0 263032  2724 ?        Ssl  окт19   0:00 /usr/sbin/rsyslogd -n
+root       774  0.0  0.0 110480  3348 ?        Ssl  окт19   0:02 /usr/sbin/irqbalance --foreground
+root       777  0.0  0.1 181112  6960 ?        Ssl  окт19   0:01 /usr/sbin/thermald --no-daemon --dbus-enable
+root       796  0.0  0.1 434436  6568 ?        Ssl  окт19   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root       807  0.0  0.0  32540  2580 ?        Ss   окт19   0:00 /usr/sbin/cron -f
+root       808  0.0  0.1  70700  4524 ?        Ss   окт19   0:00 /lib/systemd/systemd-logind
+message+   815  0.0  0.1  51372  4364 ?        Ss   окт19   0:04 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root       938  0.0  0.0  45620  3860 ?        Ss   окт19   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root       939  0.0  0.2 637448 11116 ?        Ssl  окт19   0:09 /usr/sbin/NetworkManager --no-daemon
+root       942  0.0  0.0   4548   760 ?        Ss   окт19   0:01 /usr/sbin/acpid
+root       964  0.0  0.2 298208  8304 ?        Ssl  окт19   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root      1019  0.0  0.0   2476    64 ?        Ss   окт19   0:01 /usr/sbin/gpm -m /dev/input/mice -t exps2
+root      1026  0.0  0.0  36644  3228 ?        Ss   окт19   0:00 /usr/lib/bluetooth/bluetoothd
+root      1035  0.0  0.1 315708  5552 ?        Ss   окт19   0:00 /usr/sbin/winbindd --foreground --no-process-group
+root      1044  0.0  0.4 1133720 17324 ?       Ssl  окт19   0:24 /usr/bin/containerd
+root      1053  0.0  0.1 364260  5800 ?        SLsl окт19   0:00 /usr/sbin/lightdm
+ntp       1056  0.0  0.0 111948  2212 ?        Ssl  окт19   0:03 /usr/sbin/ntpd -p /var/run/ntpd.pid -g -u 112:118
+root      1074  0.2  2.5 1087504 101212 tty7   Ssl+ окт19  17:34 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1083  0.0  0.0  17400  1596 tty1     Ss+  окт19   0:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+root      1092  0.0  0.0 315712  3204 ?        S    окт19   0:00 /usr/sbin/winbindd --foreground --no-process-group
+root      1232  0.0  0.1 316908  5664 ?        Ssl  окт19   0:02 /usr/lib/upower/upowerd
+root      1283  0.0  0.1 269000  5444 ?        Sl   окт19   0:00 lightdm --session-child 12 19
+psifi     1326  0.0  0.1  77056  5972 ?        Ss   окт19   0:00 /lib/systemd/systemd --user
+psifi     1327  0.0  0.0 132632   676 ?        S    окт19   0:00 (sd-pam)
+psifi     1344  0.0  0.1 282908  4680 ?        Sl   окт19   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+psifi     1347  0.0  0.3 404068 12084 ?        Ssl  окт19   0:00 mate-session
+psifi     1406  0.0  0.1  50544  4264 ?        Ss   окт19   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+psifi     1459  0.0  0.0  11304    40 ?        Ss   окт19   0:00 /usr/bin/ssh-agent /usr/bin/im-launch mate-session
+psifi     1468  0.0  0.1 349552  5332 ?        Ssl  окт19   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+psifi     1473  0.0  0.0  50052  3224 ?        S    окт19   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+psifi     1476  0.0  0.1 220784  5848 ?        Sl   окт19   0:01 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+psifi     1482  0.0  0.1 188248  5192 ?        Sl   окт19   0:00 /usr/lib/dconf/dconf-service
+psifi     1488  0.0  0.5 1594328 22316 ?       Sl   окт19   0:05 /usr/bin/mate-settings-daemon
+psifi     1492  0.0  0.7 491896 27468 ?        Sl   окт19   2:14 marco
+psifi     1493  0.0  0.1 286320  5416 ?        Ssl  окт19   0:00 /usr/lib/gvfs/gvfsd
+psifi     1498  0.0  0.1 416112  4504 ?        Sl   окт19   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+psifi     1510  0.0  0.5 697596 22024 ?        Sl   окт19   0:01 mate-panel
+psifi     1517  0.3  0.2 1072116 11220 ?       S<l  окт19  23:50 /usr/bin/pulseaudio --start --log-target=syslog
+rtkit     1518  0.0  0.0 183504  2660 ?        SNsl окт19   0:00 /usr/lib/rtkit/rtkit-daemon
+psifi     1537  0.0  1.2 1301284 49268 ?       Sl   окт19   0:03 caja
+psifi     1541  0.0  0.6 546080 24324 ?        Sl   окт19   0:06 /usr/lib/mate-panel/wnck-applet
+psifi     1542  0.0  1.1 898324 45964 ?        Sl   окт19   1:11 mintmenu
+psifi     1547  0.0  0.4 481496 16492 ?        Sl   окт19   0:00 mate-xapp-status-applet
+psifi     1549  0.0  0.3 473124 13236 ?        Sl   окт19   0:00 /usr/lib/mate-panel/notification-area-applet
+psifi     1550  0.0  0.4 545204 17108 ?        Sl   окт19   0:01 /usr/lib/mate-panel/clock-applet
+psifi     1560  0.0  0.4 724528 18416 ?        Sl   окт19   0:07 nm-applet
+psifi     1562  0.0  0.3 644060 15088 ?        Sl   окт19   0:00 mate-volume-control-applet
+psifi     1563  0.0  0.4 713012 15844 ?        Sl   окт19   0:00 blueberry-tray
+psifi     1568  0.0  0.5 495608 21564 ?        Sl   окт19   0:02 mate-screensaver
+psifi     1572  0.0  0.2 377692 10356 ?        Sl   окт19   0:00 /usr/lib/x86_64-linux-gnu/polkit-mate-authentication-agent-1
+root      1575  0.0  0.0      0     0 ?        S<   окт19   0:00 [krfcommd]
+psifi     1594  0.0  0.3 505876 15004 ?        Sl   окт19   0:02 mate-power-manager
+psifi     1614  0.0  0.2 251700  8256 ?        Sl   окт19   0:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+psifi     1626  0.0  0.2 429840 11528 ?        Sl   окт19   0:00 blueberry-obex-agent
+psifi     1659  0.0  0.1 300896  5804 ?        Ssl  окт19   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+psifi     1674  0.0  0.1 373164  4524 ?        Ssl  окт19   0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+psifi     1679  0.0  0.1 283108  5040 ?        Ssl  окт19   0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+psifi     1684  0.0  0.1 268444  4540 ?        Ssl  окт19   0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+psifi     1691  0.0  0.0  31704  3728 ?        S    окт19   0:00 python3 /usr/lib/blueberry/safechild /usr/sbin/rfkill event
+psifi     1694  0.0  0.1 270184  4840 ?        Ssl  окт19   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+psifi     1700  0.0  0.0  10964   440 ?        S    окт19   0:00 /usr/sbin/rfkill event
+psifi     1703  0.0  0.1  82732  4504 ?        Ss   окт19   0:00 /usr/lib/bluetooth/obexd
+psifi     1705  0.0  0.1 362644  4744 ?        Sl   окт19   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.15 /org/gtk/gvfs/exec_spaw/0
+psifi     1713  0.0  0.0      0     0 ?        Z    окт19   0:02 [get_apt_cache.p] <defunct>
+psifi     1727  0.0  0.1 199148  4880 ?        Ssl  окт19   0:00 /usr/lib/gvfs/gvfsd-metadata
+root      1741  0.0  0.6 1197604 25392 ?       Ssl  окт19   0:08 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+kernoops  1761  0.0  0.0  56940  1924 ?        Ss   окт19   0:00 /usr/sbin/kerneloops --test
+kernoops  1771  0.0  0.0  56940   264 ?        Ss   окт19   0:00 /usr/sbin/kerneloops
+root      1799  0.0  0.0      0     0 ?        I<   окт19   0:00 [iprt-VBoxWQueue]
+root      1807  0.0  0.0      0     0 ?        S    окт19   0:00 [iprt-VBoxTscThr]
+root      1979  0.0  0.0   4504   740 ?        S    окт19   0:00 bpfilter_umh
+psifi     2248  0.0  0.4 745132 17336 ?        Sl   окт19   0:01 mintUpdate
+psifi     2360  0.0  1.6 658008 66356 ?        Sl   окт19   1:12 mintreport-tray
+psifi     8606  0.0  0.0  15584  1116 ?        S    окт22   0:00 bwrap --args 32 zoom zoommtg://us02web.zoom.us/join?action=join&confno=7817288582&pwd=h6kYSt-WP3qJzW-W_1lhABxuISHR0w&zc=0&mcv=0.92.11227.0929&confid=dXNzPW14NEo5UkpmREVZVlhtMEVsQUthNU1FNnA1cTJRNEs4aVhPUUlpXzUyMHZndVk5dnhYbDVOYkwzejdlYlRNakpoWGk1Y3dLc216QTZzNFBXM3RxX0RzTlQuVDljUnpIT09jOVVMM1EzYiZ0aWQ9NmUzYmI5Njg3ZWY5NDJlNTkzOTU3NTc2NjhkNzZlY2I%3D&browser=firefox&t=1603358785272
+psifi     8610  0.0  0.2 376052  8272 ?        Ssl  окт22   0:00 /usr/lib/flatpak/flatpak-session-helper
+psifi     8615  0.0  0.1 497992  4636 ?        Ssl  окт22   0:00 /usr/libexec/xdg-document-portal
+psifi     8618  0.0  0.1 265820  5036 ?        Ssl  окт22   0:00 /usr/libexec/xdg-permission-store
+psifi     8630  0.0  0.0  15584  1064 ?        S    окт22   0:00 bwrap --args 34 /usr/lib/flatpak/flatpak-dbus-proxy --args=36
+psifi     8631  0.0  0.1 187756  4676 ?        Sl   окт22   0:00 /usr/lib/flatpak/flatpak-dbus-proxy --args=36
+psifi     8633  0.0  0.0  15848   956 ?        S    окт22   0:00 bwrap --args 32 zoom zoommtg://us02web.zoom.us/join?action=join&confno=7817288582&pwd=h6kYSt-WP3qJzW-W_1lhABxuISHR0w&zc=0&mcv=0.92.11227.0929&confid=dXNzPW14NEo5UkpmREVZVlhtMEVsQUthNU1FNnA1cTJRNEs4aVhPUUlpXzUyMHZndVk5dnhYbDVOYkwzejdlYlRNakpoWGk1Y3dLc216QTZzNFBXM3RxX0RzTlQuVDljUnpIT09jOVVMM1EzYiZ0aWQ9NmUzYmI5Njg3ZWY5NDJlNTkzOTU3NTc2NjhkNzZlY2I%3D&browser=firefox&t=1603358785272
+psifi     8634  0.0  0.0  14348   660 ?        Sl   окт22   0:00 /app/extra/zoom/ZoomLauncher zoommtg://us02web.zoom.us/join?action=join&confno=7817288582&pwd=h6kYSt-WP3qJzW-W_1lhABxuISHR0w&zc=0&mcv=0.92.11227.0929&confid=dXNzPW14NEo5UkpmREVZVlhtMEVsQUthNU1FNnA1cTJRNEs4aVhPUUlpXzUyMHZndVk5dnhYbDVOYkwzejdlYlRNakpoWGk1Y3dLc216QTZzNFBXM3RxX0RzTlQuVDljUnpIT09jOVVMM1EzYiZ0aWQ9NmUzYmI5Njg3ZWY5NDJlNTkzOTU3NTc2NjhkNzZlY2I%3D&browser=firefox&t=1603358785272
+psifi     8636  0.0  0.0   7068   772 ?        S    окт22   0:00 sh -c export SSB_HOME=/home/psifi/.zoom; export QSG_INFO=1; export LD_LIBRARY_PATH=/app/extra/zoom; export BREAKPAD_CLIENT_FD=3; /app/extra/zoom/zoom "zoommtg://us02web.zoom.us/join?action=join&confno=7817288582&pwd=h6kYSt-WP3qJzW-W_1lhABxuISHR0w&zc=0&mcv=0.92.11227.0929&confid=dXNzPW14NEo5UkpmREVZVlhtMEVsQUthNU1FNnA1cTJRNEs4aVhPUUlpXzUyMHZndVk5dnhYbDVOYkwzejdlYlRNakpoWGk1Y3dLc216QTZzNFBXM3RxX0RzTlQuVDljUnpIT09jOVVMM1EzYiZ0aWQ9NmUzYmI5Njg3ZWY5NDJlNTkzOTU3NTc2NjhkNzZlY2I%3D&browser=firefox&t=1603358785272"
+psifi     8637  3.1 19.6 5001060 765728 ?      SLl  окт22  96:26 /app/extra/zoom/zoom zoommtg://us02web.zoom.us/join?action=join&confno=7817288582&pwd=h6kYSt-WP3qJzW-W_1lhABxuISHR0w&zc=0&mcv=0.92.11227.0929&confid=dXNzPW14NEo5UkpmREVZVlhtMEVsQUthNU1FNnA1cTJRNEs4aVhPUUlpXzUyMHZndVk5dnhYbDVOYkwzejdlYlRNakpoWGk1Y3dLc216QTZzNFBXM3RxX0RzTlQuVDljUnpIT09jOVVMM1EzYiZ0aWQ9NmUzYmI5Njg3ZWY5NDJlNTkzOTU3NTc2NjhkNzZlY2I%3D&browser=firefox&t=1603358785272
+root     10399  0.0  0.0      0     0 ?        I    окт22   0:13 [kworker/3:2-mm_]
+root     12017  0.0  0.0      0     0 ?        S    11:42   0:00 [irq/28-mei_me]
+root     12018  0.0  0.0      0     0 ?        S    11:42   0:00 [irq/17-mmc0]
+root     12299  0.0  0.1  25980  4040 ?        S    11:42   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /run/dhclient-wlp2s0.pid -lf /var/lib/NetworkManager/dhclient-077f8471-c7ec-4e87-aa14-7a2de877aad3-wlp2s0.lease -cf /var/lib/NetworkManager/dhclient-wlp2s0.conf wlp2s0
+avahi    12381  0.0  0.0  47280  3020 ?        Ss   11:42   0:00 avahi-daemon: running [psifi-Latitude-E6430.local]
+avahi    12394  0.0  0.0  47072   184 ?        S    11:42   0:00 avahi-daemon: chroot helper
+root     12881  0.0  0.1 102224  5136 ?        Ss   11:47   0:00 /usr/sbin/cupsd -l
+root     12883  0.0  0.1 303528  6984 ?        Ssl  11:47   0:00 /usr/sbin/cups-browsed
+root     13148  0.1  0.0      0     0 ?        I    12:00   0:11 [kworker/2:0-eve]
+root     14162  0.0  0.0      0     0 ?        I    12:27   0:00 [kworker/3:1-cgr]
+root     14565  0.0  0.0      0     0 ?        I    12:40   0:03 [kworker/0:2-eve]
+root     14581  0.0  0.0      0     0 ?        I    12:42   0:04 [kworker/1:1-mm_]
+root     15262  0.0  0.0      0     0 ?        I    13:04   0:00 [kworker/2:2]
+root     15593  0.0  0.0      0     0 ?        I<   13:23   0:03 [kworker/u9:1-rb]
+root     15733  0.0  0.0      0     0 ?        I    13:24   0:00 [kworker/0:1-mm_]
+root     15836  0.0  0.0      0     0 ?        I<   13:28   0:00 [kworker/u9:0-uv]
+psifi    16570  1.8  8.4 3334048 330528 ?      Sl   14:20   0:41 /usr/lib/firefox/firefox
+psifi    16631  0.1  3.2 2649624 127444 ?      Sl   14:20   0:02 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 1 -prefMapSize 235620 -parentBuildID 20200917005511 -appdir /usr/lib/firefox/browser 16570 true tab
+psifi    16695  0.8  8.1 22043248 319920 ?     Sl   14:20   0:19 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 6043 -prefMapSize 235620 -parentBuildID 20200917005511 -appdir /usr/lib/firefox/browser 16570 true tab
+psifi    16740  0.1  3.5 2614448 139460 ?      Sl   14:20   0:02 /usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 6841 -prefMapSize 235620 -parentBuildID 20200917005511 -appdir /usr/lib/firefox/browser 16570 true tab
+psifi    16782  0.4  5.2 2716556 204316 ?      Sl   14:20   0:10 /usr/lib/firefox/firefox -contentproc -childID 4 -isForBrowser -prefsLen 6995 -prefMapSize 235620 -parentBuildID 20200917005511 -appdir /usr/lib/firefox/browser 16570 true tab
+root     16960  0.0  0.0      0     0 ?        I    14:30   0:00 [kworker/u8:2-iw]
+psifi    17059  0.7  3.8 2673584 151636 ?      Sl   14:37   0:09 /usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 7875 -prefMapSize 235620 -parentBuildID 20200917005511 -appdir /usr/lib/firefox/browser 16570 true tab
+psifi    17100  1.4  4.9 2912048 191756 ?      Sl   14:37   0:18 /usr/lib/firefox/firefox -contentproc -childID 6 -isForBrowser -prefsLen 7875 -prefMapSize 235620 -parentBuildID 20200917005511 -appdir /usr/lib/firefox/browser 16570 true tab
+psifi    17145  0.2  5.6 2713060 218876 ?      Sl   14:37   0:02 /usr/lib/firefox/firefox -contentproc -childID 7 -isForBrowser -prefsLen 7875 -prefMapSize 235620 -parentBuildID 20200917005511 -appdir /usr/lib/firefox/browser 16570 true tab
+psifi    17189  1.1  1.0 648828 40276 ?        Sl   14:38   0:13 mate-terminal
+psifi    17197  0.0  0.1  24520  5584 pts/0    Ss   14:38   0:00 bash
+root     17516  0.0  0.0      0     0 ?        I    14:44   0:00 [kworker/u8:3-iw]
+psifi    17657  0.0  0.0  15584  1188 ?        S    14:51   0:00 bwrap --args 30 telegram-desktop --
+psifi    17662  0.0  0.0  15584  1144 ?        S    14:51   0:00 bwrap --args 33 /usr/lib/flatpak/flatpak-dbus-proxy --args=35
+psifi    17663  0.0  0.1 187760  4824 ?        Sl   14:51   0:00 /usr/lib/flatpak/flatpak-dbus-proxy --args=35
+psifi    17665  0.0  0.0  15848  1084 ?        S    14:51   0:00 bwrap --args 30 telegram-desktop --
+psifi    17666  2.6  5.8 2001364 230136 ?      Sl   14:51   0:10 telegram-desktop --
+psifi    17670  0.0  0.2 464480 10236 ?        Ssl  14:51   0:00 /usr/libexec/xdg-desktop-portal
+psifi    17677  0.0  0.0   4624   856 ?        S    14:51   0:00 sh -c /usr/lib/x86_64-linux-gnu/libproxy/0.4.14/pxgsettings org.gnome.system.proxy org.gnome.system.proxy.http org.gnome.system.proxy.https org.gnome.system.proxy.ftp org.gnome.system.proxy.socks
+psifi    17678  0.0  0.1 273472  6200 ?        Sl   14:51   0:00 /usr/lib/x86_64-linux-gnu/libproxy/0.4.14/pxgsettings org.gnome.system.proxy org.gnome.system.proxy.http org.gnome.system.proxy.https org.gnome.system.proxy.ftp org.gnome.system.proxy.socks
+psifi    17682  0.0  0.4 533748 15736 ?        Ssl  14:51   0:00 /usr/libexec/xdg-desktop-portal-gtk
+root     17717  0.0  0.0      0     0 ?        I    14:51   0:00 [kworker/1:2]
+root     17792  0.0  0.0      0     0 ?        I    14:52   0:00 [kworker/u8:0-ev]
+psifi    17863  0.3  1.9 2542988 75636 ?       Sl   14:57   0:00 /usr/lib/firefox/firefox -contentproc -childID 8 -isForBrowser -prefsLen 7969 -prefMapSize 235620 -parentBuildID 20200917005511 -appdir /usr/lib/firefox/browser 16570 true tab
+psifi    17915  0.0  0.0  40916  3560 pts/0    R+   14:58   0:00 ps -aux
